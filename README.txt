@@ -1,3 +1,5 @@
+Note: If you are having trouble reading this file in the main page, please consider opening it directly, either in GitHub, or by downloading it, as it is better optimized there.
+
 ## Program Details ##
 This console program will allow you to encrypt a file of your choosing using a basic encryption algorithm, as well as decrypt a file that has
 been previously encrypted with this app. Please keep in mind while using this app, that you should not rely on it for
