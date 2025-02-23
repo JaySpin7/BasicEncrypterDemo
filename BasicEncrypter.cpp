@@ -21,7 +21,7 @@ While it may work on other operating systems, I have not tested for that and the
 
 int main() // Main function of this app. While most of the code for this program is in the header file, the program always starts and ends here.
 {
-    cout << "This program will allow you to choose a file within it's own directory to encrypt or decrypt with a password.\n This is intended as a demo program and should not be expected to\n have any real world value. Please refer to the READMME.txt file that is packaged with\n this program to learn more about it's purpose and licensing restrictions\n\n";
+    cout << "This program will allow you to choose a file within it's own directory to encrypt or decrypt with a password.\n This is intended as a demo program and should not be expected to\n have any real world value. Please refer to the README.txt file that is packaged with\n this program to learn more about it's purpose and licensing restrictions\n\n";
     bool Running = true;
     while (Running) {
         Running = UserInput();
